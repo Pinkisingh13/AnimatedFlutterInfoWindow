@@ -10,8 +10,6 @@ A responsive, animated info panel component for Flutter that displays informatio
 
 [![Watch Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://streamable.com/dvvx6j)
 
-https://github.com/user-attachments/assets/dvvx6j
-
 <video src="demo.mp4" width="300" controls></video>
 
 **[▶️ Watch Full Demo on Streamable](https://streamable.com/dvvx6j)**
@@ -220,27 +218,10 @@ Contributions are welcome! Feel free to:
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-MIT License - feel free to use this in your own projects.
-
 ## Support This Project
 
 If you find this useful:
 
 ⭐ **Give this repo a star** - It helps others discover this project!
-
-👤 **Follow me on GitHub** - I'll be sharing more useful Flutter components and projects!
-
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/FlutterInfoWindow?style=social)](https://github.com/YOUR_USERNAME/FlutterInfoWindow)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
-
-## Author
-
-Built by [Your Name]
-
----
-
-### ⭐ Star this repo if you found it helpful!
 
 ### 👉 Follow me for more Flutter projects!
